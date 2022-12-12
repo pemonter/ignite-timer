@@ -6,7 +6,11 @@ Esse projeto simula um pomodoro. Nela foi seguido um guia de estilo para impleme
 
 📱 Figma: https://www.figma.com/file/crjTtCyZjjey6ho4a0CzPR/Ignite-Timer-(Community)?node-id=313%3A1874&t=TDTSIxug3PawgwuO-0
 
-## Executar aplicação
+## Executar aplicação via Vercel
+
+Basta acessar o link: https://ignite-timer-ashen.vercel.app/
+
+## Executar aplicação localmente
 
 Inicialmente é necessário clonar esse repositório para sua máquina, utilizando o seguinte comando: 
 
